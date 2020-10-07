@@ -1,0 +1,24 @@
+.display-4 {
+    text-align: center;
+    color: white;
+}
+
+.col-sm-2 {
+    text-align: center;
+}
+
+.card {
+    background-color: rgb(57, 136, 211);
+}
+
+.card-text {
+    color: white;
+}
+
+.card-body {
+    color: white;
+}
+
+#todayForcast {
+    margin: auto;
+}
